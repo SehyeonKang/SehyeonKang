@@ -9,7 +9,7 @@
 
 <div align=center>
   <h3>📚 Tech Stack</h3>
-	<p>✨ Platforms & Languages</p>
+	<p>📝 Framework & Languages</p>
 </div>
 
 <div align=center>
