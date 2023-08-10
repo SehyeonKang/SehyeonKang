@@ -9,6 +9,7 @@
 
 <div align=center>
   <h3>📚 Tech Stack</h3>
+	<br/>
 	<p>📝 Framework & Languages</p>
 </div>
 
